@@ -1,0 +1,9 @@
+.all-components{
+    display: flex
+}
+.image-component{
+    width: 60%;
+}
+.title-component{
+    width: 40%;
+}
